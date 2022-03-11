@@ -1,0 +1,5 @@
+
+Requirements!
+1 Build from scratch
+2 Complete with your own data!
+3 Make separate components: Info, About, Interests and Footer
